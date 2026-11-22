@@ -73,5 +73,11 @@ namespace WpfApp2
             Window2 w = new Window2();
             w.Show();
         }
+
+        private void Next3(object sender, RoutedEventArgs e)
+        {
+            ValueconverterWindow w = new ValueconverterWindow();
+            w.Show();
+        }
     }
 }

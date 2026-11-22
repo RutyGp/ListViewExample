@@ -11,6 +11,9 @@
 
             <Button Content=" window1" Click="Next" Width="60"/>
             <Button Content=" window2" Click="Next2" Width="60"/>
+            <Button Content=" ValueconverterWindow" Click="Next3" Width="60"/>
+            
+
             <TextBlock Text="רשימת ערים (טיפוס String):" FontSize="16" FontWeight="Bold" Margin="0,0,0,10" />
 
             <ListView x:Name="SimpleListView" Height="150" />
